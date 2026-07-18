@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Priyanshu Nautiyal 👋</h1>
 
 <p align="center">
-  🎓 Pre-final year Computer Science Student | 💻 Full-Stack Developer | 🤖 ML Enthusiast
+  🎓 Computer Science Graduate | 💻 Full-Stack Developer | 🤖 ML Enthusiast
 </p>
 
 ---
